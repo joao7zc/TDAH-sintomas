@@ -1,0 +1,42 @@
+<!DOCTYPE html><html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TDAH - Sintomas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Transtorno de Déficit de Atenção e Hiperatividade (TDAH)</h1>
+        <p>O TDAH é um transtorno neurodesenvolvimental caracterizado por sintomas de desatenção, hiperatividade e impulsividade.</p><h2>Sintomas Comuns</h2>
+    <ul>
+        <li><strong>Desatenção:</strong> Dificuldade em manter o foco, distração fácil, esquecimento de tarefas e dificuldade em seguir instruções.</li>
+        <li><strong>Hiperatividade:</strong> Inquietação constante, dificuldade em permanecer sentado, falar excessivamente.</li>
+        <li><strong>Impulsividade:</strong> Interrupção de conversas, dificuldade em esperar a vez, tomada de decisões sem pensar nas consequências.</li>
+    </ul>
+    
+    <h2>Quando Buscar Ajuda?</h2>
+    <p>Se os sintomas interferirem significativamente na vida diária, é recomendado procurar um profissional de saúde para avaliação e diagnóstico.</p>
+</div>
+
+</body>
+</html>
